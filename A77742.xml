@@ -1,0 +1,422 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>St. Paul's thanksgiving: set forth in a sermon preached before the right honorable House of Peers in the Abby-Church Westminster, on Thursday May 10. being the day of solemn thanksgivng to almighty God for his late blessings upon this kingdom.  By James Buck, B.D. Vicar of Stradbrook in Suff. and domestick chaplian to the right honorable Theophilus Earl of Lincoln.</title>
+            <author>Buck, James.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 59 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77742</idno>
+            <idno type="STC">Wing B5308</idno>
+            <idno type="STC">Thomason E1033_2</idno>
+            <idno type="STC">ESTC R208955</idno>
+            <idno type="EEBO-CITATION">99867870</idno>
+            <idno type="PROQUEST">99867870</idno>
+            <idno type="VID">168906</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77742)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168906)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 153:E1033[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>St. Paul's thanksgiving: set forth in a sermon preached before the right honorable House of Peers in the Abby-Church Westminster, on Thursday May 10. being the day of solemn thanksgivng to almighty God for his late blessings upon this kingdom.  By James Buck, B.D. Vicar of Stradbrook in Suff. and domestick chaplian to the right honorable Theophilus Earl of Lincoln.</title>
+                  <author>Buck, James.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[4], 29, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by J.G. for John Playford at his shop in the Temple, near the Church door,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With an order to print on verso of title page dated at head: Die Veneris, II. Maii 1660. and signed by: Jo. Browne, Cleric. Parliamentor.</note>
+                  <note>Running title: Saint Paul's thankefulnesse.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168906:1"/>
+            <p>St. Paul's Thankſgiving: Set forth in a SERMON Preached before the Right Honorable Houſe of PEERS in the Abby-Church <hi>Weſtmin<g ref="char:EOLhyphen"/>ſter,</hi> on Thurſday <hi>May</hi> 10. being the day of ſo<g ref="char:EOLhyphen"/>lemn Thankſgiving to Almighty God for His late Bleſſings upon this KINGDOM.</p>
+            <p>
+               <hi>By</hi> James Buck, <hi>B. D. Vicar of</hi> Stradbrook <hi>in</hi> Suff. <hi>and Domeſtick Chaplain to the Right Honorable</hi> Theophilus <hi>Earl of</hi> Lincoln.</p>
+            <q>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>—</p>
+               <p>There is nothing ſo takes God, as to be thankeful not onely when things go well, but in their contrary carriage. <bibl>
+                     <hi>Chryſ. in Pſal. 116.8. Pſal. 42.5.</hi>
+                  </bibl>
+               </p>
+               <p>The King ſhall rejoyce in God, every one that ſweareth by him ſhall glory, but the mouth of them that ſpeak lies ſhall be ſtopped, <bibl>
+                     <hi>Pſal. 63.11.</hi>
+                  </bibl>
+               </p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J.G.</hi> for <hi>John Playford</hi> at his Shop in the <hi>Temple,</hi> near the Church door, 1660.</p>
+         </div>
+         <div type="order">
+            <pb facs="tcp:168906:2"/>
+            <head>Die Veneris, <hi>11.</hi> Maii <hi>1660.</hi>
+            </head>
+            <p>ORdered by the LORDS in Parliament aſſembled, That Mr. <hi>Buck</hi> is hereby deſired to print and publiſh the Sermon that he preached the 10. day of this inſtant <hi>May,</hi> in the Abby-Church before the Lords of Parliament, for which he hath their Lordſhips thanks, and that no perſon ſhall reprint the ſame without his approbation.</p>
+            <closer>
+               <signed>Jo. Browne, <hi>Cleric. Parliamentor.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="order">
+            <p>
+               <hi>I do appoint</hi> John Playford <hi>to print this Sermon,</hi>
+            </p>
+            <closer>
+               <signed>James Buck.</signed>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:168906:2"/>
+            <head>To the Right Honourable the LORDS Aſſembled in PARLIAMENT.</head>
+            <opener>
+               <salute>My Lords,</salute>
+            </opener>
+            <p>YOur Lordſhips pleaſure is the ſole producent of the publication of this Sermon, which therefore makes lowly addreſs to your moſt honou<g ref="char:EOLhyphen"/>rable Houſe, that ſeeing your will hath given it a publick exiſtence, it may not lie idle and fruitleſs in open view, but remain a lively and laſting monument of true thankefulneſs, by your Lordſhips good example and precedence.</p>
+            <p>
+               <hi>My Lords,</hi> though in this juncture of the greateſt benefits, the whole King<g ref="char:EOLhyphen"/>dom is bound, more than any Nation, to be thankeful, yet in the common bleſ<g ref="char:EOLhyphen"/>ſings the Peers are eſpecially obliged to gratitude, by reaſon that others ſuffer<g ref="char:EOLhyphen"/>ed with you, onely in their eſtates, your Lordſhips alone ſuffered in your Honors. The forces, that ſo far as in them was, aboliſht Kingſhip, put Peerage down as uſeleſs, and left you bare titles of honor without influences of activity in your ſphere of government: and no wonder, when the fountain of honour was obſtru<g ref="char:EOLhyphen"/>cted, that the riverets ſhould be dried up, when the Crown did not flouriſh, how could the Coronet? The Moon would go for an obſcure body, if by monethly re<g ref="char:EOLhyphen"/>turns ſhe were not repleniſht with new light from the Sun: During the Kings eclipſe your Honors were under a cloud, but by a renewed conjunction with his Majeſty, your titles of honor be ſignificant, your luſtre is repair'd, your beams chear your country, and you act the prime part in the grand Council and af<g ref="char:EOLhyphen"/>fairs of State. Sad experience may ſerve for a remembrance that the concern<g ref="char:EOLhyphen"/>ment of the Nobility is to keep up Majeſtie, for the King cannot be leſſened in his legal rights and prerogative, but the Nobles will be diminiſhed in their na<g ref="char:EOLhyphen"/>tive priviledges and dignities. My Lords, conſidering how eaſie it was with God to lay the higheſt honors low, even by and under contemptible creatures, now that his favour ſhines again upon you, let ingenuity perſwade your Lord<g ref="char:EOLhyphen"/>ſhips to walk officiouſly with our dear Lord, and ſacrifice thankofferings beſee<g ref="char:EOLhyphen"/>ming Chriſtian grace and Engliſh grandeur; in which kind Almighty God throughout his Law calls for regard of the poor, reſpect to the Levite: On be<g ref="char:EOLhyphen"/>half of the poor, I beſeech you give me leave to remind your Lordſhips what floud-gates of ſin it will stop, and what a door it will open for amending the manners of the moſt neceſſitous, and the trayning up their infantry to induſtry and vertue, to anticipate all begging by fit relief, and ſetting all able hands to
+<pb facs="tcp:168906:3"/>ſome task towards their living. There be indeed excellent laws already to this purpoſe, but nevertheleſs I am an humble ſuppliant to your Lordſhips, that a courſe may ſpeedily be took for a poſsibility to effectuate thoſe laws, by work<g ref="char:EOLhyphen"/>houſes and ſufficient ſtocks in theſe populous and wealthy cities, from which the pattern will ſoon iſſue forth into all the land. As for due countenance to the Levite, I held it neither opportune nor needful to ſollicit your Lordſhips in my Preaching, becauſe the propenſity and inclination of your noble Souls is transpa<g ref="char:EOLhyphen"/>rent, that His Majeſty ſhall no ſooner be repofed in his regalities, and the Kingdom reſetled in its laws and liberties, but your Honors will ſhew your ſelves munificent Patrons and providers for the Church, and the reverend Fathers and very learned Miniſters thereof, that be ſupervivors, to the manifold ſuffer<g ref="char:EOLhyphen"/>ings and injuries, which have been illegally inflicted on them theſe twenty years by-paſt: Undoubtedly the eſtimate of a Clergy cannot be upheld without en<g ref="char:EOLhyphen"/>dowments, benefits and ſalaries, whereby ſome eminent Divines may proceed equal to the moſt famous of other liberal Sciences, in their rewards and perqui<g ref="char:EOLhyphen"/>ſites; otherwiſe the fineſt wits and brave spirits will betake themſelves to other profeſſions, if Phyſicians for the body advance higher than any Phyſicians for the ſoul, and if the Gospel cannot prefer as much as the Law: How can your Lordſhips wiſh a learned, pious and painful Miniſtry in every corner of the Realm, unleſs a competency be fore-prepared for their maintenance and encou<g ref="char:EOLhyphen"/>ragement? Wherefore when once your Lordſhips ſhall have re-eſtabliſhed the fundamentals of the State, you will credit your memories in all poſterity, to ac<g ref="char:EOLhyphen"/>commodate the Church with neceſſaries for decency of degree in Church-men, and contrive a bountiful conveniency for the Paſtor of every pariſh, by uniting ſmall adjacent Livings and like expedients, which ſo wiſe a Council will not fail quickly to find out, when they intend it as a ſerious piece of their buſineſs. For which proviſions for the poor in honeſt labor, and for Eccleſiaſticks in god<g ref="char:EOLhyphen"/>ly work, your Honors ſhall inherit the benediction of the Church, and the bleſ<g ref="char:EOLhyphen"/>ſings of the poor, (two notable promiſes in holy Scripture) together with the prayers and praiſes of all Gods people, and the faithful ſervices and devotions of,</p>
+            <closer>
+               <salute>My Lords,</salute> 
+               <signed>Your Lordſhips moſt humble, and moſt devoted, and moſt obedient Servant, <hi>JAMES BUCK.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:168906:3"/>
+            <head>SAINT PAUL'S THANKFULNESSE.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>ROM. 7.25.</hi>
+                  </bibl>
+                  <p>I thank God through Jeſus Christ our Lord.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">S</seg>Aint <hi>Paul</hi> being incumbred with the reliques of ſin, and thereupon crying out in the Verſe immediately before, <hi>O wretched man that I am! who ſhall de<g ref="char:EOLhyphen"/>liver me from the body of this death?</hi> very abruptly burſts forth in this clauſe, <hi>I thank God through Jeſus Chriſt our Lord:</hi> But this inference is not without a myſtery, and inſinuates three things.</p>
+            <p n="1">
+               <label type="milestone">
+                  <seg type="milestoneunit">Sect. </seg>1</label> 
+               <note place="margin">Why St. <hi>Paul</hi> abruptly breaks into thankſgiving.</note> 1. How Prayer diſcharges the heart of troubleſome cares and anxieties, and repoſes it in the ſafe cuſtody of divine peace: <hi>Phil</hi> 4.6, 7. <hi>Be careful for nothing, but in every thing by prayer and ſupplication, with thankſgiving, let your requeſts be made known unto God; and the peace of God, which paſſeth all understanding,
+<pb n="2" facs="tcp:168906:4"/>ſhall keep your hearts and minds through Chriſt Jeſus.</hi> Thus we find <hi>David</hi> in many Pſalms beginning with mournful ditties, unexpectedly to break into joyful Hymnes and gratulations,
+<note place="margin">
+                  <hi>Felinus</hi> in Pſal. 17.</note> as if ſome Angel had in the midſt of Prayer all on the ſudden brought him better news from heaven.</p>
+            <p n="2">2. That our Apoſtle practiſed ſuch a duty as <hi>Lan<g ref="char:EOLhyphen"/>ſperg</hi> bravely frequented.
+<note place="margin">
+                  <hi>Toties te edoro &amp; Laudo, toti<g ref="char:EOLhyphen"/>es pro illis lau<g ref="char:EOLhyphen"/>des tibi ſuavi<g ref="char:EOLhyphen"/>ſſimas cano, &amp; praecipuè eas quas ſpiritus ille reprobus, qui mihi talia nunc ſuggerit, modò caneret, ſi in bono per<g ref="char:EOLhyphen"/>ſtitiſſet, ut vel hoc modo in tui laude illius expleam vices</hi> In Pharetra Divini amo<g ref="char:EOLhyphen"/>ris, p. 23.</note> So oft as wicked ſugge<g ref="char:EOLhyphen"/>ſtions are forced upon me unwilling, ſo oft I adore and extol thee, ſo oft becauſe of them I ſing thy moſt ſweet praiſes to thee, and chiefly thoſe which that reprobate ſpirit, who now ſuggeſts ſuch things to me, would have ſung if he had perſiſted in good, that even by this means I may ſupply his courſe in praiſing thee. Did Chriſtians conſtantly deal thus with the Devil, they would make him weary of his part in tempting.</p>
+            <p n="3">3. Bleſſed <hi>Paul</hi> hath no ſooner utter'd his diſtreſ<g ref="char:EOLhyphen"/>ſed mind in petition, <hi>Who ſhall deliver me?</hi> but he is inſtantly inlarged with matter of thankſgiving, and therefore praiſes God, as feeling ſome eaſe. In ago<g ref="char:EOLhyphen"/>nies with concupiſcence the Lord can in a moment tranſport the ſoul from the bottom of anguiſh to the top of delight: <hi>Eſa.</hi> 65.24. <hi>Pſal.</hi> 10.17. <hi>The Lord hears the deſire of the poor,</hi>
+               <note place="margin">D<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſiderium pauneris exau<g ref="char:EOLhyphen"/>dit Dominus.</note> 
+               <hi>Scilicet dum adhuc aliquid eſt in deſiderio,</hi> to wit, while a thing is yet in the de<g ref="char:EOLhyphen"/>ſire. God prevents the words of his Orators, attends their deſires, minds their prayer in the <hi>fieri,</hi> whiles it is forging in the ſeed of deſire he prepares relief. And a bleſſing hath ſo much the more of contentati<g ref="char:EOLhyphen"/>on,
+<pb n="3" facs="tcp:168906:4"/>by how much the leſs it was in expectation. Hence the ſignal mercy of reſtoring the right Heir to the three Crowns, deſerves the greater honour, by how much the more it is equal to our wiſhes, and far ſuperior to our late hope and expectances: Who had the heart a few moneths ſince to promiſe himſelf to ſee ſuch a day as this? That the Honourable Hou<g ref="char:EOLhyphen"/>ſes of Peers and Commons ſhould quietly meet and conſult the Intereſts of Church and State, without the leaſt controll, and recognize and proclaim the rightfull King, with wonderfull triumph and accla<g ref="char:EOLhyphen"/>mations of all the people, and ſolemnize this day of Thankſgiving for the ſame, with the greateſt and moſt unanimous ſatisfaction that ever was perceiv'd in <hi>England? This is the day that the Lord hath made, we will rejoyce and be glad in it. This is the Lords doing, and it is marvellous in our eyes,</hi> and fils every true En<g ref="char:EOLhyphen"/>gliſhmans mouth with Saint <hi>Pauls</hi> words, <hi>I thank God through Jeſus Chriſt our Lord.</hi>
+            </p>
+            <p>Which contain theſe five Propoſitions:</p>
+            <p>That all thanks and praiſes are due to God.</p>
+            <p>That due praiſing and thanks to God cannot be perfor<g ref="char:EOLhyphen"/>med and given without Chriſt.</p>
+            <p>That it is peculiar to the Regenerate, whom S. <hi>Paul</hi> re<g ref="char:EOLhyphen"/>preſents, to pay through Chriſt their debt of thanks and praiſes unto God.</p>
+            <p>That victory over temptations, and ſpirituall bleſsings, are the main objects for which the Regenerate thank God in Chriſt.</p>
+            <pb n="4" facs="tcp:168906:5"/>
+            <p> That ſuch Thank-offerings are the higheſt ſacrifice of the Church, Militant or Triumphant.</p>
+            <p>Theſe I ſhall handle briefly in their order.</p>
+            <p n="1">
+               <label type="milestone">
+                  <seg type="milestoneunit">Sect. </seg>2</label> 
+               <note place="margin">That all thanks and praiſes are due to God.</note> 1. <hi>That all thanks and praiſes are due to God.</hi> And our Doctors thanking of God is nothing elſe but his referring unto God all the good that he had, or could conceive or wiſh, as a ſmall moyety of his immenſe perfections.</p>
+            <p>It is true that the Philoſopher writes,
+<note place="margin">In the firſt of his Ethicks, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.—<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> Praiſe is too low an expreſſion for Gods acts; Honour, and ſome more lofty ſtyle muſt be uſed in ſpeaking of his Di<g ref="char:EOLhyphen"/>vine Majeſty and excellencies. <hi>Neh.</hi> 9.5. <hi>His glorious name is exalted above all praiſe.</hi> Higher epithets belong to him then thoſe of Praiſe, and all our terms of glo<g ref="char:EOLhyphen"/>ry, reſpect, worſhip.</p>
+            <p>But God is pleaſed that poor mortals ſpeak of him the beſt that they can. That is an obſervable locution, <hi>Pſal.</hi> 71.23. <hi>My lips ſhall greatly rejoyce when I ſing un<g ref="char:EOLhyphen"/>to thee.</hi> Which to underſtand, be pleaſed to take no<g ref="char:EOLhyphen"/>tice, That <hi>Joh.</hi> 7.38. the <hi>heart</hi> is called the <hi>belly</hi> of the ſoul, as the receptacle of grace and heavenly refreſh<g ref="char:EOLhyphen"/>ments, and as it is enabled to communicate to other parts, and ſend forth ſtreams of love and duty. Now as in Nature, which is well diſcovered by <hi>Bartholinus</hi> an eminent Anatomiſt,
+<note place="margin">
+                  <hi>Ventriculus ha<g ref="char:EOLhyphen"/>bet membranam — nervoſam, in quam vaſa term nantur eſophagi, oris &amp; labiorum tunicae continuam, ut nihil ventri<g ref="char:EOLhyphen"/>culo ingratum recipiatur, — binc quando in ventriculo bilis, communicatur linguae amari<g ref="char:EOLhyphen"/>tudo &amp; flavedo; e<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cont<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>a <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tiom oris &amp; linguae vitia oeſophago &amp; ventriculo.</hi> Anato. l. 1. c 9.</note> the ventricle hath a mem<g ref="char:EOLhyphen"/>brane or coat full of nerves, which is continued with
+<pb n="5" facs="tcp:168906:5"/>the tunicle or skin of the mouth and lips, whence they ſympathize mutually, and diſtempers in the mouth, lips, tongue, affect the ſtomach, and choler in the ſtomach cauſes bitterneſs and yellowneſs in the tongue: So in Reaſon and Grace, the matters that be in the belly of the ſoul affect the lips and tongue with vehement tinctures; and when the belly is full of the ſweetneſs of God, it qualifies the lips and tongue with a divine guſt and reliſh, and the name of God and his Chriſt is melody in the ears,
+<note place="margin">Melos in aurc, m<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in ore.</note> hony in the mouth. As <hi>Bonaventure,</hi> a devout Scholaſtick, re<g ref="char:EOLhyphen"/>lates of his Maſter, that he was ſo enamour'd there<g ref="char:EOLhyphen"/>with, that in rehearſing of the Pſalms, when Gods name occurred in them,
+<note place="margin">In vita Fran<g ref="char:EOLhyphen"/>ciſci c. 10. <hi>Prae ſuavitatis dulcedine labia ſua lingere vi<g ref="char:EOLhyphen"/>debatur.</hi>
+               </note> out of the flavor of ſweetneſs he ſeemed to lick his lips, and to be in a rapture when our Saviour was named. It is impoſſible to have any worthy thoughts what an infinite amiable good the Almighty is, but that it will alter the ſoul and body with affects of the ſweeteſt ſavour. The Jews have all along had a godly uſage, upon any occaſion of na<g ref="char:EOLhyphen"/>ming God in their writings, to inſert an abbreviature of praiſe, the holy one, the bleſſed.
+<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> Mark the ſpi<g ref="char:EOLhyphen"/>rits of the principal Apoſtles St. <hi>Paul</hi> and St. <hi>Peter,</hi>
+               <note place="margin">
+                  <hi>S.</hi> Chryſ. <hi>de incomprehen ſi<g ref="char:EOLhyphen"/>bili, ſerm.</hi> 3.</note> they cannot let the mention of God paſs occaſional<g ref="char:EOLhyphen"/>ly from them in their Epiſtles, without a Parentheſis of thankſgiving and praiſe, <hi>Rom.</hi> 1.25. <hi>Who is bleſſed for ever, Amen;</hi> 1 <hi>Pet.</hi> 4.11. alledging that God may be glorified through Chriſt, he interpoſes, <hi>To whom be praiſe and dominion for ever and ever, Amen:</hi> If any duration could be more than ever, he would have
+<pb n="6" facs="tcp:168906:6"/>God honoured for evermore; as if he ſhould ſay, in all eternity we cannot fully praiſe God; if there could be more than one ſempiternity, he would long to have them all repleniſht with the endleſs praiſing of God. And ſo you have a little taſte that all thanks and praiſes be due to God.</p>
+            <p n="2">
+               <label type="milestone">
+                  <seg type="milestoneunit">Sect. </seg>3</label> 
+               <note place="margin">That due praiſe and thanks to God cannot be ex<g ref="char:EOLhyphen"/>hibited with<g ref="char:EOLhyphen"/>out Chriſt.</note> 2. Our ſecond task is to ſhew, that due praiſe and thanks to God cannot be exhibited without Chriſt, <hi>I thank God through Jeſus Chriſt. Mat.</hi> 11.27. <hi>None knoweth the Father but the Son;</hi> he onely underſtand<g ref="char:EOLhyphen"/>ing the univerſal goodneſs of God, is alone able con<g ref="char:EOLhyphen"/>dignly to praiſe him, with praiſes equal to his ſu<g ref="char:EOLhyphen"/>preme worthineſs: The praiſes of all men and An<g ref="char:EOLhyphen"/>gels fall ſhort, and have no proportion to the divine goodneſs, and therefore all Angels and men ought to prefer their praiſes as well as their prayers in Chriſt.</p>
+            <p>Again, Thankſgiving is a part of divine Worſhip, and St.
+<note place="margin">De Trinit. l. 1. <hi>Sine Deo Chri<g ref="char:EOLhyphen"/>ſto, unum Deum confiteri irre<g ref="char:EOLhyphen"/>ligioſitas ſit.</hi>
+               </note> 
+               <hi>Hilary</hi> teaches right, It is Paganiſm and irre<g ref="char:EOLhyphen"/>ligion to worſhip God out of Chriſt, in whom alone he is well-pleaſed, and out of whom praiſes are natu<g ref="char:EOLhyphen"/>ral, not Chriſtian, not ſpiritual, and therefore in no or<g ref="char:EOLhyphen"/>der to life eternal.</p>
+            <p>In Chriſt the thankſgiver renders praiſes to God cordially and reverently; cordially, for Chriſt is truth, and nothing void of ſincerity can riſe to his hand, to be thereby given unto God: none muſt ima<g ref="char:EOLhyphen"/>gine lip-labour ſhall ſerve, becauſe thankſgiving is ex<g ref="char:EOLhyphen"/>preſſed by <hi>fruit of our lips, Heb.</hi> 13.15. The Latines
+<pb n="7" facs="tcp:168906:6"/>do finely circumſcribe thankfulneſs by <hi>Gratus ani<g ref="char:EOLhyphen"/>mus,</hi> the hymne that praiſes God muſt be ſung with <hi>grace in the heart, Col.</hi> 3.16. <hi>which makes melody in the heart, Epheſ.</hi> 5.19. when all the ſtrings thereof, all the faculties therein, are tuned by the holy Spirit to conſent in Gods will and bleſſing him, as the ſtrings in an Inſtrument are fitted to conſent in Muſick. Ve<g ref="char:EOLhyphen"/>ry divinely St. <hi>Athanaſius</hi> the Great,
+<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>— <hi>ad Marcellum.</hi> p. 756.</note> Reaſon would that a man ſhould not be in diſcords with himſelf: As the beſt inſtrument gives an harſh ſound if all the ſtrings be not tunable and in mutual harmony; ſo our actions and praiſes yield an unpleaſant ſound in Gods ears, unleſs our whole ſpirit, ſoul and body, in all their parts and powers be in conformity to his wil, and united in his praiſe.</p>
+            <p>Reverently, as <hi>Paul</hi> performs it here, like a ſacred dutie of divine adoration, and holy worſhip, with ſpirituall elevation in Chriſt: <hi>Pſal.</hi> 111.9. <hi>Holy and reverend is his Name,</hi> and therefore not to be mentio<g ref="char:EOLhyphen"/>ned but with religious and awfull reverence: we muſt waſh our mouths in Chriſt laver, before we preſume to take Gods praiſes into them,
+<note place="margin">Tingebat cala<g ref="char:EOLhyphen"/>mum lin<g ref="char:EOLhyphen"/>guae fonte Sancti Spiritus, ut mundas Deo laudes diceret.</note> as <hi>Paſchaſius</hi> writes of the worthy Prince St. <hi>Adelhard,</hi> that was uncle to <hi>Charles</hi> the Great, he dipt the tip of his tongue in the fountain of the Holy Ghoſt, that he might utter pure praiſes to God.</p>
+            <p>This obſervation ſerves for warning, for learning, and for quickening. For warning, that God is, <hi>Exod.</hi> 15.11. <hi>dreadfull in praiſes;</hi> which reproves them that take the name and praiſes of God in vain, that lightly
+<pb n="8" facs="tcp:168906:7"/>and inconſiderately uſe thanksgiving, and tremble not in recounting Gods holy and venerable praiſes; bold people, that are not afraid to have the glorious praiſes of God at their tongues end, and thank the Lord at every ſecond word perfunctorily, without ad<g ref="char:EOLhyphen"/>vancing of their ſpirits and praiſes to him in Chriſt, or regard agreeable to acts of divine worſhip, have their conſciences charged with the guilt of great irreve<g ref="char:EOLhyphen"/>rence. As for us, we are not worthy to take the high praiſes of God into our mouths, and defect in offer<g ref="char:EOLhyphen"/>ing them, if we ſhall dare to preſent them by them<g ref="char:EOLhyphen"/>ſelves without joyning Chriſts praiſing with them; or if we ſhall preſume any acceptation of our prai<g ref="char:EOLhyphen"/>ſes without Chriſts merits, which who ſo do muſt look to anſwer for ill ſetting forth and counterfeiting the divine vertues.</p>
+            <p>For learning, whence the Saints come to have ſuch ſenſe and feeling of their own poverty and inſuffici<g ref="char:EOLhyphen"/>ency in praiſing God, <hi>Pſal.</hi> 72.20. the Pſalmiſt having poured forth his ſpirit to the utmoſt in praiſing the divine favours, and finding himſelf extremely ſhort of them,
+<note place="margin">
+                  <hi>Defecerunt lau<g ref="char:EOLhyphen"/>des</hi> David <hi>filii</hi> Jeſſe.</note> daintily ſubjoyns, <hi>The praiſes of David the ſon of Jeſſe are finite and ended;</hi> which ſentence is curi<g ref="char:EOLhyphen"/>ouſly contrived for the concluſion of the ſecond book of <hi>Davids</hi> Pſalms, (the whole Pſaltery accor<g ref="char:EOLhyphen"/>ding to the Jews conſiſting of five Books) and for in<g ref="char:EOLhyphen"/>ſinuation that all hymns are of too narrow limits to correſpond in any degree unto the infinite glories and praiſes of God, And hereupon inſpired men, out of their longing that God might be duly praiſed, not
+<pb n="9" facs="tcp:168906:7"/>onely ſumme up all their own parts and appurtenan<g ref="char:EOLhyphen"/>ces, <hi>Pſal.</hi> 57.8. <hi>Awake my glory, awake Lute and Harp, I my ſelf will awake,</hi> but alſo invoke the aid and con<g ref="char:EOLhyphen"/>currence of all creatures, to aſſiſt them by their ſeve<g ref="char:EOLhyphen"/>ral vertues, excellent properties and abilities, <hi>Pſal.</hi> 148. — the religious ſoul conceives ſo highly of God, as to burn in deſires, that all creatures in the whole Univerſe would lay their forces together, and eſpecially, that in the world of pure praiſes the holy Angels and perfected ſpirits would buſie themſelves in extolling him: But for us poor and ingrate ſouls, when we repeat the clauſes wherein all creatures are invited to aſſociate with us in ſetting out the praiſes of God, we may profitably remember that of <hi>Arno<g ref="char:EOLhyphen"/>bius junior,</hi> We excite, provoke and exhort all crea<g ref="char:EOLhyphen"/>tures to the praiſing of God, and unhappy we ſleep our ſelves; behold, all things that we call upon, come together, ſaying, Why do you call upon us? we are come together that we might praiſe God, and we find his holy name, blaſphemed onely by your fault, your ſeat and place is onely vacant in the Chorus.</p>
+            <p>For quickning in Chriſts ſupply not to deſpair of our praiſing God: <hi>Tacitus</hi> writes judiciouſly,
+<note place="margin">
+                  <hi>Beneficia cô uſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> laeta ſunt, dum videntur exolvi poſſe, ſi multum ante<g ref="char:EOLhyphen"/>v<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nere, pro gra<g ref="char:EOLhyphen"/>tia<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>adium red<g ref="char:EOLhyphen"/>ditur.</hi> Anal. 5.</note> Favors are ſo far ſatisfactory as they ſeem returnable; if they much exceed that, hatred is rendered for good will; good deeds are burthens when they be above mens poſſibility of requital. For this cauſe being our own thankſgivings are defective, and the praiſes of all creatures in earth and in heaven it ſelf incompetent,
+<pb n="10" facs="tcp:168906:8"/>ſufficiently to glorifie God, that our aſpiring worthi<g ref="char:EOLhyphen"/>ly to honour God may be ſatisfied, we muſt be ſure to get Chriſts praiſes conjoyned with ours, and offer ours in union and merit of them; <hi>That whether we eat or drink, or whatſoever we do, we may do all to the glory of God,</hi> 1 <hi>Cor.</hi> 10.30. Mingle Chriſts odors with our works of grace and nature, of Chriſtian vocation and common calling, and ſo preſent them to God as a perfume compounded of ſundry fragrant ſcents, <hi>Cant.</hi> 1.13.—make a poſie of Mirrh and the other odorife<g ref="char:EOLhyphen"/>rous ingredients of our Lords oyntment, and by their mixture put value upon our praiſes. It were envy not to commend this paſſage of <hi>Androtius,</hi> We cannot preſent our ſelves in ſacrifice to God without Chriſts aſſiſtance, and though a man ſhould offer himſelf a thouſand times, it were little; therefore that we might have what to render to God for all his bene<g ref="char:EOLhyphen"/>fits, Chriſt himſelf, as by dying on the Croſs he offer'd himſelf to the Father,
+<note place="margin">
+                  <hi>Traidd ti etiam ſe homini, ut ab homine poſſit cum meritis &amp; amore ſuo infi<g ref="char:EOLhyphen"/>nito tanquam hoſtia pro pec<g ref="char:EOLhyphen"/>cato, &amp; tan<g ref="char:EOLhyphen"/>quam oblatio pro beneficiis, Deo offerri, &amp; ſic homo poteſt patri offerre infinitum precium meritorum Chriſti, &amp; ipſum Chriſtum.</hi> Androtius de paſſ. &amp; morte Chriſti, c. 5. v. c. 11.</note> 
+               <hi>tradidit etiam ſe homini</hi> — hath made over himſelf alſo to man, that by man he might be offered to God with his deſerts and infinite love, as a Sacrifice for ſin, and as an Oblation for be<g ref="char:EOLhyphen"/>nefits, and ſo man may offer to the Father the infi<g ref="char:EOLhyphen"/>nite price of Chriſts merits, and Chriſt himſelf, which is the proper work of the regenerate.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sect. </seg>4</label> And ſo I am arrived at our third ſtation, That it is peculiar to the regenerate, whom <hi>Paul</hi> repreſents,
+<pb n="11" facs="tcp:168906:8"/>(and in whoſe perſon he ſpeaks as well as in his own) to pay through Chriſt their debt of thanks and prai<g ref="char:EOLhyphen"/>ſes unto God. <hi>Pſal.</hi> 33.1.
+<note place="margin">Onely the re<g ref="char:EOLhyphen"/>generate pay through Chriſt the debt of thanks and praiſes unto God.</note> 
+               <hi>Praiſe is comely for the up<g ref="char:EOLhyphen"/>right,</hi> it beſeems the godly and holy to praiſe the God of holineſs.</p>
+            <p>But it is unhandſom that the wicked ſhould pollute Gods praiſes with their impure lips, <hi>Pſal.</hi> 50.16. The brave Roman held that onely for a praiſe, which came, <hi>à viro laude dignus,</hi> from a man worthy of commendation; and ſhould God have his praiſes pronounced by men of uncleane lips? Hence it was, that Thankfulneſs, that precious vertue, hath ever been ſo rare and ſuch a ſtranger in the world, that the learned Languages of <hi>Greek</hi> and <hi>Latin</hi> have no proper word for it; the thing not appearing, their ingenuity left it nameles; but unthankfulneſs, as every where frequent, got a name in all tongues, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> is a good Greek word, and <hi>ingratitudo</hi> a good Latin, ſo is not <hi>gratitudo,</hi> which ſprang up after the purity of Latin ſpeech was exſpired, about the time of <hi>Tiberi<g ref="char:EOLhyphen"/>us,</hi> when they coyned for complements words with<g ref="char:EOLhyphen"/>out experiments. Humility and gratitude are ver<g ref="char:EOLhyphen"/>tues proper to Chriſtianity, in Believers and Martyrs above others, to act not in themſelves but in their Mediator; and when they have actually ſhewed the greateſt thankfulneſs and charity, and died for their Lord, and are crowned for ſo doing, <hi>Apoc.</hi> 4.10. to proſtrate their Crowns before his throne, and ac<g ref="char:EOLhyphen"/>knowledge him the onely-worthy of all glory, and honour, and that in his power and grace they conque<g ref="char:EOLhyphen"/>red
+<pb n="12" facs="tcp:168906:9"/>and triumphed. Becauſe this office is appropriate to the godly, the holy Scripture ſets them to this work by name, <hi>Offer to the Lord thankſgiving, Pſal.</hi> 50.14. thus we ſee <hi>David,</hi> the man after Gods heart for ſin<g ref="char:EOLhyphen"/>cerity, love, devotion, to be the <hi>ſweet ſinger of Iſrael,</hi> 2 <hi>Sam.</hi> 23.1. and the eſpecial Trumpeter of Gods praiſes: And there is nothing that <hi>David</hi> ſo varies in his Pſaltery in ſundry wayes of repetition, as his <hi>Hallelujah, Praiſe ye the Lord,</hi> beginning and ending divers Pſalms therewith, ending every verſe of ſome with invitation thereto, as the 150<hi rend="sup">th</hi>. the laſt verſe excepted, which hath it doubled in the cloſe; and in the 136<hi rend="sup">th</hi>.
+<note place="margin">
+                  <hi>Ut quicquid o<g ref="char:EOLhyphen"/>peram Dei per<g ref="char:EOLhyphen"/>curritur, ideo intelligatur <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>f<g ref="char:EOLhyphen"/>fectum, ut ho<g ref="char:EOLhyphen"/>nitatis &amp; miſ<g ref="char:EOLhyphen"/>ricordiae ejus intelligatur ae<g ref="char:EOLhyphen"/>ternita<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> S. Proſper 1b.</note> paying ſix times at the end of every verſe thankful acknowledgment of everlaſting mercy, which manageth all Gods proceedings with his peo<g ref="char:EOLhyphen"/>ple: This moved the devotional King <hi>David,</hi> that <hi>prayed three times a day, Pſal.</hi> 55.17. to <hi>give thanks ſe<g ref="char:EOLhyphen"/>ven times a day, Pſal.</hi> 119.164. as the principal work of the ſanctified: And becauſe we have more rea<g ref="char:EOLhyphen"/>ſon to give thanks for free mercies than to crave un<g ref="char:EOLhyphen"/>deſerved kindneſſes, and God is more worthy to be praiſed than any thing in heaven or earth to be deſi<g ref="char:EOLhyphen"/>red, and our fruitions exceed our wants, the vouch<g ref="char:EOLhyphen"/>ſafements which regenerates enjoy are above all they can deſire, and more than all they need, the imitation and entring into the ſtate of true grace harder than the progreſs,
+<note place="margin">Vid. S. Chryſ. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>him.</hi> 3.</note> the new birth more difficult than the growth, the firſt converſion hath more of the creating hand than all proficiency and perfection.</p>
+            <pb n="13" facs="tcp:168906:9"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sect. </seg>6</label> 
+               <note place="margin">That regene<g ref="char:EOLhyphen"/>rates are the moſt obedient Subjects, and moſt thankful for Kings and Princes.</note> As none are thankful for Supernaturals but onely they that have Chriſts grace, ſo neither are any e<g ref="char:EOLhyphen"/>qually thankful for terrene and political bleſſings, as the orthodox and truly pious; none ſo obodient to Princes, in as much as it is part of their faith that hu<g ref="char:EOLhyphen"/>mane laws bind Conſcience, <hi>Rom.</hi> 13.5. And they conſider the benefit of government and Kingſhip, what inſtruments and miniſters they are of publique tranquility and repoſe: Sects and ſchiſms are the iſ<g ref="char:EOLhyphen"/>ſues of pride and contention in the Church, and ſo naturally prone to breed and foment diviſions and di<g ref="char:EOLhyphen"/>ſturbances in the State; but Orthodoxality is a daugh<g ref="char:EOLhyphen"/>ter of obedience in the Church, and conſequently frames the ſpirits of men to be quiet and orderly in the State: Grace harbours not malignity towards equals or inferiours, to miſconſter, be jealous, ſuſpi<g ref="char:EOLhyphen"/>tious, and interpreting all things to the worſe; much leſs can it abide ſuch humours againſt our Superiours, but ever hopes the beſt of governors, and takes their doings in the faireſt ſenſe: You have a moſt imitable temper for Subjects, 2 <hi>Sam.</hi> 3.36. <hi>Whatſoever the King did, pleaſed all the people,</hi> and that induced Al<g ref="char:EOLhyphen"/>mighty God to give the King a mind in all things to gratifie the people, 1 <hi>Chron.</hi> 13.2. <hi>And David ſaid to all the congregation of Iſrael, If it ſeem good to you let us do ſo, and ſo,</hi> — confidence of Subjects excites truſt and complyance in Kings. Further, conſcientious people look upon it as a duty impoſed on them from heaven, freely to contribute to the royal ſupport
+<pb n="14" facs="tcp:168906:10"/>of their Kings, <hi>Rom.</hi> 13.6, 7. render all their dues, <hi>Tribute to whom tribute is due,</hi> which in St. <hi>Auguſtines</hi> judgment is the way for a Nation to grow rich:
+<note place="margin">
+                  <hi>M<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>j<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>res nostr ideo copiis om<g ref="char:EOLhyphen"/>ri<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>us abunda<g ref="char:EOLhyphen"/>bant, qui Deo decimas da<g ref="char:EOLhyphen"/>bant, &amp; Caeſari cenſum <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>edde<g ref="char:EOLhyphen"/>bant.</hi> hom. 48</note> Our Anceſtors (the Chriſtians of the primitive &amp; beſt ages) therefore abounded in all plenties, becauſe they gave tythes to God, and ſubſidies to <hi>Caeſar;</hi> and well may your Honours confirme the tythes to God, who hath quit you of the danger of DECIMATION; and well may you leavie tributes for the King, who makes you maſters of your Contributions, and frees you from the bondage of paying whatſoever Phana<g ref="char:EOLhyphen"/>tiques would pretend that Providence did act them to exact: The little finger of an Uſurper is thicker than the loyns of a lawful poſſeſſor; nor can a vo<g ref="char:EOLhyphen"/>luntary people grudge to afford a third of that for the maintenance of a right Owner, which was for<g ref="char:EOLhyphen"/>cibly took from them to keep in an Intruder. He that another day ſhall feel in himſelf a tentation of unreadineſs to pay taxes to his Prince, let him record this day, wherein after many years ſlavery under the tyranny of ſervants, our Sovereign Maſter being owned, there was as univerſal and as real a thankſgi<g ref="char:EOLhyphen"/>ving, as ever was known in <hi>England,</hi> and he for one heartily cried out, <hi>I thank God through Jeſus Chriſt our Lord.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sect. </seg>6</label> 
+               <note place="margin">That ſpiritual bleſſings are the main ob<g ref="char:EOLhyphen"/>jects for which the regenerate thank God in Chriſt.</note> And ſo we are conducted to our fourth reſting-place, That ſpiritual bleſſings are the main objects for which regenerate thank God in Chriſt. As our Apoſtle here thanks God for the delivery from ſin; and the Pſalmiſt quickens all his powers to unite their
+<pb n="15" facs="tcp:168906:10"/>faculties in praiſing God for remiſſion of ſin, and for ſanctification, <hi>Pſal.</hi> 103.1, 2, 3. <hi>Bleſs the Lord, O my ſoul, and all that is within me bleſs his holy Name, — who forgiveth all thine iniquities, who healeth all thine infirmities.</hi> This Truth is conſiderable for diſtincti<g ref="char:EOLhyphen"/>on, for diſcretion, for devotion: For diſtinction, this differenceth the Church and the world, <hi>The love of the Father is not in the world,</hi> 1 <hi>John</hi> 2.15. the Nati<g ref="char:EOLhyphen"/>ons have ſome love of God as the prime good and being, but it is without any conſideration of Gods exiſting a Father to Chriſt, and us in him; therefore at the beſt it is but Philoſophical love, it is no Chri<g ref="char:EOLhyphen"/>ſtian nor Theological charity; <hi>Mat.</hi> 15.31. <hi>They glo<g ref="char:EOLhyphen"/>rified the God of Iſrael,</hi> not the God of heaven and earth, as he was diſcern'd in light of Nature to the world, but <hi>the God of Iſrael,</hi> as he was diſcovered by light of ſacred Scripture to the Church: In the Old Teſtament the Lord is familiarly ſtyled, <hi>the God of Abraham, Iſaac and Jacob,</hi> not of <hi>Europe, Aſia</hi> and <hi>Africa,</hi> nor the God of the four Elements, &amp;c. to intimate, that the ſaving knowledge is not by mani<g ref="char:EOLhyphen"/>feſtation from the creature, but by revelation to the Patriarchs, Prophets, Apoſtles, &amp;c. <hi>Epheſ.</hi> 5.20. true thankſgiving and accepted with God is in the name of Chriſt, to God and the Father; to God, not barely conſidered as God, but to God as eternally the Father of our Lord Jeſus, and in good time our Father through Chriſt, <hi>Col.</hi> 3.7. as Chriſtians appre<g ref="char:EOLhyphen"/>hend him, and aſſume all the benefits for which they praiſe him, qualified in the relation of a Father, and
+<pb n="16" facs="tcp:168906:11"/>the mediation of a Redeemer: Let me adde this to your meditations, <hi>Pſal.</hi> 4.6, 7. the world many times word and mouthe ſome thanks to God for Corn, and Wine, and Oyle, but never is thankful about any oblations of praiſe to God for ſuccours purely Evan<g ref="char:EOLhyphen"/>gelical, victory in tentations, aſſiſtance againſt ſin, which raviſht <hi>Paul</hi> into this doxology. Carnal men may for ſelf-love really beg favors, and pray, give and forgive, they cannot for Gods love cauſe their hearts to ſay, <hi>hallowed be thy name,</hi> becauſe thou <hi>leadeſt not into temptation,</hi> but <hi>delivereſt from evil,</hi> which is the effect of the Apoſtles thankſgiving. For diſcretion, to be intirely thankful we muſt diſtinguiſh betwixt our ten<g ref="char:EOLhyphen"/>tations and our ſins; <hi>Paul</hi> was grievouſly buffeted by motions to ſin, ſo as to wax weary of his life, but all the while he reſiſted; it was his infelicity not, his fault; it was concupiſcence that ſinned, not St. <hi>Paul, Rom.</hi> 7.17. and therefore in abatement of the agony he burſts out in thankſgiving.
+<note place="margin">Vid. <hi>in <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>tis Sanctorum.</hi> Ap. 29.</note> 
+               <hi>Catherine</hi> of <hi>Senes,</hi> a ſpiritual woman in her Age, having been vext with all manner of blaſphemous thoughts and horrid ſug<g ref="char:EOLhyphen"/>geſtions, after ſome releaſe and Chriſts gracious re<g ref="char:EOLhyphen"/>turn, inquires in a Soliloquie, Where waſt thou, dear Lord, when my poor heart was pierced with fiery darts, and haraſed in woful wiſe? and had for an<g ref="char:EOLhyphen"/>ſwer, <hi>Fui in medio cordis tui,</hi> I was in the centre of thy heart, rendring thoſe injections abominable, withholding thy conſent, and enabling thee to ſtand out in reſiſtance. For devotion, not to reſt till we attain Chriſtian inſpiration and expirtion, and be able
+<pb n="17" facs="tcp:168906:11"/>with St. <hi>Paul</hi> to breath Goſpel-ayrs; <hi>Eph.</hi> 1.3. <hi>Bleſſed be God who hath bleſſed us with all ſpiritual bleſsings,</hi> in which we are incomparably more happy than in any worldly enjoyments, which then onely are matters of true content and thankfulneſs, when they are em<g ref="char:EOLhyphen"/>braced as tokens of Gods good will, paternity, and gracious reference in Chriſt.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sect. </seg>6</label> 
+               <note place="margin">That our tem<g ref="char:EOLhyphen"/>porals require many thanks of Engliſh<g ref="char:EOLhyphen"/>men, and our ſpirituals ma<g ref="char:EOLhyphen"/>ny more.</note> The occaſion of this ſolemnity calls upon me to inſiſt a while upon this ſubject, that our temporals re<g ref="char:EOLhyphen"/>quire many thanks, our ſpirituals many more. Our temporals require many thanks, <hi>Pſal.</hi> 12.1. <hi>When the Lord turned again the captivity of</hi> Sion, <hi>we were as them that dream:</hi> It fares with us now as it did with the Jews diſcharged from their captivity in <hi>Babylon</hi> by the gallant Emperor <hi>Cyrus,</hi> the turn was ſo unlikely, that an helpleſs poor company of Bondmen ſhould get out of the hands of the mightieſt Lords in the world, that when the Proclamation of <hi>Cyrus</hi> ſet them all free, and encouraged his loyal ſubjects to relieve them for their paſſage, and commanded his Officers to allow the expences for rebuilding the Temple out of his Imperial Exchequer, it was ſo much beyond the hope of the diſtreſſed Jews, that it lookt more like the dream of one aſleep, than the viſion of one awake: Likewiſe we, in theſe our exceſſive joys, can ſcarce believe our ſenſes, and hardly think our ſelves well awake, that our vouchſafements are in re<g ref="char:EOLhyphen"/>ality, and not the aiery imagination of dreamers. Far be it from me to rip up, and publiſh in a Pulpit, the foul proceedings, which the goodneſs of our moſt
+<pb n="18" facs="tcp:168906:12"/>gracious King, the wiſdom of the Parliament, the charity of the Nation, would have buried in forget<g ref="char:EOLhyphen"/>fulneſs by an Act of oblivion; give me leave onely to propoſe the Parable of <hi>Jotham, Jud.</hi> 9.9. — The Trees would needs be making themſelves a King, and tender the Kingſhip to the Olive-tree, the Fig<g ref="char:EOLhyphen"/>tree and the Vine ſeverally, which are trees of the beſt quality and fruit; but they all joyntly refuſe to take ſupreme dominion; then they offer it to the Bramble, no tree but a ſorry ſhrub, and the Bramble at the firſt moving aſſumes domination; that which the moſt noble Families trembled to hear of, a youn<g ref="char:EOLhyphen"/>ger ſprig of a ſtock in the Gentry boldly ventures up<g ref="char:EOLhyphen"/>on, and mounts into the throne and ſeat of higheſt Majeſty and State; what is the iſſue? <hi>verſe</hi> 15. fire proceeds out of the Bramble, and devours the Ce<g ref="char:EOLhyphen"/>dars: Mark the profundity of divine Scripture in Si<g ref="char:EOLhyphen"/>mile's; <hi>Lyranus</hi> out of <hi>Iſidore</hi> informes us, the Bramble is a petty buſh,
+<note place="margin">Rhamnus eſt dumus parvus, qui vento agi<g ref="char:EOLhyphen"/>tatus ex ſe e<g ref="char:EOLhyphen"/>nittitignem.</note> which toſt up and down, to and fro by the wind, emits and ſprings fire out of it ſelf; in the hotter regions and countries, the Bram<g ref="char:EOLhyphen"/>ble at times, by the agitation of the wind, conceives fire, and waſtes it ſelf and all the wood about it; of which alſo our compatriot <hi>Edmund Bunnie</hi> avouch<g ref="char:EOLhyphen"/>es that himſelf had ſeen ſome experience.
+<note place="margin">In his Head Corner-ſtone, l. 1. c. 11. ſect. 4. p. 235.</note> The Bramble that domineer'd over theſe Kingdoms, tem<g ref="char:EOLhyphen"/>peſted with choler that the great ones that choſe and advanced him did not confide in his ſhadow and Protectorſhip, in a rage of heart-burning foſters diſ<g ref="char:EOLhyphen"/>contents, and contrives an inhibition againſt the mee<g ref="char:EOLhyphen"/>tings
+<pb n="19" facs="tcp:168906:12"/>of the grand Officers of the Army without li<g ref="char:EOLhyphen"/>cence from him, which kindled ſuch a combuſtion a<g ref="char:EOLhyphen"/>mong them, that the Bramble was preſently pulled out of the fence by his own allies and neareſt affini<g ref="char:EOLhyphen"/>ty; but the fire ſtayed not there, but ſeiſed on the Cedars and chiefeſt of the Sword-men, and made them ſo hot one againſt another, that they were all ſoon down, and the whole Malignant party quaſht and laid in the duſt; and becauſe they are in the duſt, I ſhall not trample on them.</p>
+            <p>But your Lordſhips are aſſembled to give God the glory of this overture and ſtupendious revolution, and that for great cauſe; conſidering, that as God was blaſphemed, his Truth queſtioned, his Religion diſ<g ref="char:EOLhyphen"/>paraged, inaſmuch as men of moſt erroneous princi<g ref="char:EOLhyphen"/>ples and moſt injurious practiſes triumphed and bare up by miſ-apprehenſion of a continued ſeries of Pro<g ref="char:EOLhyphen"/>vidences, (which were onely teſtimonies of Gods diſ<g ref="char:EOLhyphen"/>pleaſure at our ſins, walking unworthy of a good go<g ref="char:EOLhyphen"/>vernment and our profeſſion, they were no hints of Gods approving their whimſies, phanſies and pre<g ref="char:EOLhyphen"/>tenſions:) So now on the contrary, by this miracu<g ref="char:EOLhyphen"/>lous diſpenſation, our Lord is glorified with us at home, and with others abroad, declaimers are ſilen<g ref="char:EOLhyphen"/>ced, and beholders compelled to wonder at the mar<g ref="char:EOLhyphen"/>vellous out-goings of God in the Land. In <hi>Homer, Laertes</hi> being ſure that his ſon <hi>Ulyſſes</hi> after twenty years abſence was indeed return'd, and had quelled the abuſers of his wife and family, the old man ex<g ref="char:EOLhyphen"/>claims, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,
+<note place="margin">Odyſſ. ult.</note>
+               <pb n="20" facs="tcp:168906:13"/>
+               <hi>High Jove, father of heaven, well then, yet you gods are still about the wide world!</hi> How then ſhall not Engliſh<g ref="char:EOLhyphen"/>men, obſerving how our gracious Sovereign, after many years expulſion and exile out of his Domini<g ref="char:EOLhyphen"/>ons, is in the turn of Gods right hand, when we were in deſperate conſuſions, without any forreign help, or effuſion of bloud, ſuddenly admitted to his juſt and hereditary rights, with the incredible ſatisfaction of the generality of his ſubjects, lift up our voices and ſay, <hi>Verily there is a reward for the righteous, verily there is a God that judgeth in the earth, Pſal.</hi> 57.12. And neighbour-Nations muſt needs ſay, <hi>Pſal.</hi> 126.2. <hi>God hath done great things for them:</hi> I, the Lord hath done great things for us, whereof we are glad, and do now keep a Feſtival, and ſhall for ever rejoyce. Honou<g ref="char:EOLhyphen"/>rable and beloved, no King upon the face of the earth hath ſuch characters and demonſtrations of heavenly favour to him, as our Sovereign Lord King <hi>Charles,</hi> which give more than humane aſſurances that God deſigns his moſt excellent Majeſty a great bleſſing to theſe. Nations, and as glorious an ornament to Chriſtendom as was <hi>Charlemaigne.</hi> May we not then juſtly take in the two readings of this my Text, <hi>gratia Deo</hi> and <hi>gratia Dei?</hi> Lately we might have ſaid, Wretched men that we were! who ſhall deliver us from this ſlayery, baſer than ever any gallant people ſuffered? and now by Gods mercy we may ſay, <hi>gra<g ref="char:EOLhyphen"/>tia Deo, We thank God</hi> — And again we may ſay, Wretched men that we were! who or what hath de<g ref="char:EOLhyphen"/>livered us from the baſeſt tyranny? and muſt anſwer
+<pb n="21" facs="tcp:168906:13"/>our ſelves, <hi>gratia Dei, the grace of God through Jeſus Chriſt our Lord.</hi>
+            </p>
+            <p>Ye have heard how great and many thankes our temporals require, now pleaſe to liſten in a word, that our ſpirituals require many more: <hi>Pſal.</hi> 144.15. When <hi>David</hi> had held forth in moſt ample circum<g ref="char:EOLhyphen"/>ſtances the felicity of a Kingdom in peace and plenty, he cloſeth with this Epiphomema, <hi>Happy are the people that are in ſuch a caſe,</hi> and immediately corrects him<g ref="char:EOLhyphen"/>ſelf, <hi>Yea, happy are the people whoſe God is the Lord:</hi> So then, our greateſt happineſs in a gracious King, and mighty Kingdoms abounding in wealth, and ſtrength, and policy, and ſtate, and unanimity, is but an em<g ref="char:EOLhyphen"/>bleme of the welfare and riches of a ſoul that can ap<g ref="char:EOLhyphen"/>propriate God to it ſelf: <hi>Micah</hi> 4.9. Now why art thou contracted in ſorrow, or is thy counſellor pe<g ref="char:EOLhyphen"/>riſht? and if thou haſt the invincible King for thy defender, why doſt thou fear? and if the eternal Spi<g ref="char:EOLhyphen"/>rit be thy Advocate, and his Law thy Counſellor, how canſt thou miſcarry?
+<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> The Septuagint divinely turn that <hi>Pſal.</hi> 129.1. <hi>When the Lord turned the captivi<g ref="char:EOLhyphen"/>ty of Sion, we were as them that are comforted,</hi> for that greateſt contents, redemptions and bodily delive<g ref="char:EOLhyphen"/>rances, are but a ſhadow to the freedom of the ſoul from the dangers of ſin; and the ſolaces of the moſt proſperous are meer umbrages to the unutterable joyes in the holy Ghoſt, and peace of Conſcience <hi>which paſſeth all underſtanding;</hi> and the fore-taſts of the holieſt in this world, of heavenly contentments, are but <hi>quaſi gaudia,</hi> as they ſpeak in the Civil Law,
+<pb n="22" facs="tcp:168906:14"/>or, as they phraſe it in the common Law, miſpriſions of joy, to the conſolations in the world to come, wherein they ſhall eternally ſing praiſes and thankſ<g ref="char:EOLhyphen"/>givings unto God.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sect. </seg>8</label> 
+               <note place="margin">That thank-offerings to God through Chriſt, are the higheſt ſac i<g ref="char:EOLhyphen"/>fice of the Church, mili<g ref="char:EOLhyphen"/>tant or Tri<g ref="char:EOLhyphen"/>umphant.</note> And thus we are brought to the laſt Stage, <hi>That Thank-offerings to God through Chriſt are the higheſt ſa<g ref="char:EOLhyphen"/>crifice of the Church, militant or triumphant:</hi> whereas the praiſe of God is the ſoveraign end of all creatures being and continuance, the praiſing of God, which is the neareſt relation, and next acting to that end, muſt of conſequence be the moſt ſuper-excelling work of heaven and earth, the quinteſſence of all Divinity, the flowre of all Theologicall duty and Divine ſervice, and clearly our beſt and higheſt office.</p>
+            <p>We ſhall improve the Uſe of this Doctrine for <hi>In<g ref="char:EOLhyphen"/>formation, Admiration,</hi> and <hi>Exhortation.</hi>
+            </p>
+            <p n="1">1. For <hi>Information,</hi> That it is the moſt noble ſtate and height of the renewed ſoul, not onely to be pa<g ref="char:EOLhyphen"/>tient and contented, but delighted and thankfull in all conditions. When the regenerate recollecting how God cauſes all things to work together for his glory, the good of the Univerſe, the ſalvation of pre<g ref="char:EOLhyphen"/>deſtinates, doe comply with him in abſolute accom<g ref="char:EOLhyphen"/>modation, and in reverentiall reſpect of his guberna<g ref="char:EOLhyphen"/>tion, accept from his divine hands proſperity, adver<g ref="char:EOLhyphen"/>ſity, influences, deſertions, good and evil, with indif<g ref="char:EOLhyphen"/>ferent minds, and with equall thanks. <hi>Job</hi> 2.10. <hi>Shall we receive good at the hands of God,
+<note place="margin">
+                     <hi>De amico &amp; amato,</hi> ſect. 7.</note> and ſhall we not re<g ref="char:EOLhyphen"/>ceive evill?</hi> As <hi>Blaquere</hi> alledges for proof of his lo<g ref="char:EOLhyphen"/>ving
+<pb n="23" facs="tcp:168906:14"/>God, <hi>Quoniam inter laetitias &amp; tribulationes, quas mihi donas, non facio differentiam:</hi> That he put no dif<g ref="char:EOLhyphen"/>ference between the joyes and tribulations which God confers. <hi>Pſal.</hi> 25.10. <hi>All the wayes of God are mercy and truth:</hi> There are no forth goings of his pro<g ref="char:EOLhyphen"/>vidence towards men, that have not for their origi<g ref="char:EOLhyphen"/>nall, eternall mercy, and the fidelity of his gracious covenant in Chriſt, for whoſe ſake all things are in<g ref="char:EOLhyphen"/>tended, guided and collated for our good, if we would ſo take them; that whether God give or take, whe<g ref="char:EOLhyphen"/>ther he afflict or inlarge, we may alwayes ſay with pa<g ref="char:EOLhyphen"/>tient <hi>Job, The Lord hath given, the Lord hath taken, as it pleaſeth the Lord ſo come things to paſs, bleſſed be the name of the Lord for ever and ever,</hi> Job 1.21.</p>
+            <p n="2">2. For <hi>Admiration;</hi> the kingly Prophet ſaying, <hi>Let my ſoul live, and it ſhall praiſe thee, Pſal.</hi> 119.175. de<g ref="char:EOLhyphen"/>clares not onely that he deſired life, for no other cauſe in chief but that he might therein give thanks and glorifie God, but alſo that the praiſes of Gods children here have in ſome reſpects prelation above the hymns of glorified ſpirits. Which <hi>Hezekiah</hi> alſo affirms, proteſting that Hell cannot praiſe God, but the living, the living he ſhall praiſe God, <hi>Eſa.</hi> 38.18. whereupon thoſe religious Kings, notwithſtanding the truſt they had to celebrate among the Fathers immortal thanks, petitioned that they might abide here to praiſe God.
+<note place="margin">In pirke avoth,</note> It was a wiſe apothegme of Rabbi <hi>Jacob,</hi> that one hour of repentance and good works in this world is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> better than all the life of the world to come, and one hour of re<g ref="char:EOLhyphen"/>freſhment
+<pb n="24" facs="tcp:168906:15"/>in the world to come is better than all the life of this world. The complete praiſes of the other world are without compariſon diviner than our im<g ref="char:EOLhyphen"/>perfect thankſgivings upon earth, in regard of the acts themſelves; but praiſes here have their priviledge, in that they be exemplary to ſinners, and converting praiſes, not ſeldom attracting others from vanity to be companions in the true worſhiping of God; as godly <hi>Hezekiah</hi> hints in thoſe words, <hi>The father to the children ſhall make known thy truth.</hi> Moreover, divine praiſes here be operative and efficiently antecedent to our glory there; <hi>After death the bleſſed reſt, Apoc.</hi> 14.13. and cannot promote in bliſs; and the ſtate of glory in heaven is proportioned to the meaſure of vertue and praiſe upon earth: whiles we are in the way every praiſe addes to the treaſury of our future glory, when we come home into our country we take up our ſtanding, and can proceed no further; here muſt we furniſh our everlaſting manſions, here muſt we lay up in ſtore for our ſelves a good foundation for the future, 1 <hi>Tim.</hi> 6.19. and procure that degree of honour wherein we would ſempiternally praiſe God.</p>
+            <p n="3">3. For <hi>Exhortation,</hi> urging us above all ſtudies to intend thankſgiving, and frequent Gods praiſes; as in our Lords prayer we are taught to begin our peti<g ref="char:EOLhyphen"/>tions with praying firſt and principally, <hi>Hallowed be thy name,</hi> enable us and all thy creatures to glorifie and praiſe thee; and in the cloſe annexed in many Greek copies to that prayer, <hi>Mat.</hi> 6.13. to aſcribe
+<pb n="25" facs="tcp:168906:15"/>Kingdom, Power and Glory to God, as the father of lights, and donor of every good and perfect gift, which is the ſummary of thankſgiving. The helliſh<g ref="char:EOLhyphen"/>neſs of hell, and moſt horrible evil there, and that which moſt terrifies the godly in their contemplati<g ref="char:EOLhyphen"/>ons is, that the damned perpetually gnaſh their teeth, <hi>Pſal.</hi> 112.10. and blaſpheme and curſe God that is bleſſed for ever; <hi>Apoc.</hi> 16.10, 11. <hi>They gnawed their tongues in pain, and blaſphemed the God of heaven be<g ref="char:EOLhyphen"/>cauſe of their pains, — and repented not of their evils;</hi> if reprobates do ſo on earth, what will they <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o in hell? And this is to the minds of them that fear God the heaven of heaven, that there is no ceſſati<g ref="char:EOLhyphen"/>on nor end of praiſing God there; <hi>Apoc.</hi> 5.13. none is ſilent in the heavenly Chorus, <hi>Every creature which is in heaven, and on the earth, and under the earth, and ſuch as are in the ſea, heard I ſaying, Bleſsing, honour, glory and power be unto him that ſittteth upon the throne, and unto the Lamb for ever,</hi> Apoc. 7.9, 10.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sect. </seg>9</label> 
+               <note place="margin">Swaſives to thankſgiving.</note> Will you be pleaſed to ponder the commendati<g ref="char:EOLhyphen"/>ons heaped upon ſacred thankſgivings? <hi>Pſal.</hi> 147.1. <hi>It is good to ſing praiſes unto God, it is pleaſant, and praiſe is comely.</hi> It is good, and by conſequence hath force to draw and allure every rational will, as con<g ref="char:EOLhyphen"/>venient for it; <hi>vox hominem ſonat,</hi> it is a ſpeech for a man to men, who will ſhew us any good? therefore God commends this duty to us as men, it is good, it is right, <hi>Eph.</hi> 6.1. it hath all reaſon for it.</p>
+            <p>It is pleaſant, not onely pleaſing to God (whoſe
+<pb n="26" facs="tcp:168906:16"/>pleaſure is more acceptable to the pious than any life) but pleaſant to the thankſgiver, a duty which cannot poſſibly be performed without pleaſure on his part. For that our good Lord would have us re<g ref="char:EOLhyphen"/>joyce evermore, 1 <hi>Theſ.</hi> 5.16. <hi>Be alwayes chearful,</hi> he paſſes an injunction, <hi>that we ſhould in every thing be thankful, verſ.</hi> 18. Would any learn to go eaſily away with his burthen?
+<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>In pareticis c.</hi> 35.</note> let him hearken to Saint <hi>Nile, In adverſity give thanks, and the yoke of afflictions will be eaſie and light;</hi> when and wherein ſoever we are diſ<g ref="char:EOLhyphen"/>content, we detain praiſes in unthankfulneſs, and give not God the honour of governing all things for the beſt. Thank God unfeignedly for thy portion, for thy corrections, for all thy tryals, and the Lords dea<g ref="char:EOLhyphen"/>ling ceaſes to be any longer diſpleaſant to thee.</p>
+            <p>It is comely, there is nothing ſo unſeemly and odi<g ref="char:EOLhyphen"/>ous as ingratitude, nothing ſo amiable and decent in all eyes as thankfulneſs; how then doth it become <hi>Pſal.</hi> 51.12. the free, ingenuous and princely ſpirit wherewith we are ſealed, to officiate in this divine ſer<g ref="char:EOLhyphen"/>vice, and ſacrifice continual thank-offerings to the God of our praiſe, who hath made us his praiſe in pre<g ref="char:EOLhyphen"/>eminence of heavenly collations.
+<note place="margin">—<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> P<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Martyr. Ju<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>m.</note> O happy <hi>David</hi> for an heroick ſpirit in practiſing Divinity! <hi>Pſal.</hi> 116.12. <hi>What ſhall I render unto God?</hi> which is wiſely expen<g ref="char:EOLhyphen"/>ded by St. <hi>Baſil,</hi> to be the voice of one that was bravely in ſtraits, and ſaw his penury on all ſides, that he had nothing fit for retribution; but to the utmoſt of his power he was willing to lay out him<g ref="char:EOLhyphen"/>ſelf, and ſpend and be ſpent for God, and that he was
+<pb n="27" facs="tcp:168906:16"/>glad of an opportunity to ſerve his generation, and advance the intereſts of his maker. Honourable Lords, there is no higher decorum than to ſtudy grateful returns, do ſomething worthy of God, and your Nobility, and this day of your triumph and joy. And whereas your goods and goodneſs cannot reach to God, but may reach to his ſubſtitutes, the recei<g ref="char:EOLhyphen"/>vers and takers of the King of heaven, let me beg leave to ſpeak a word for Chriſts poverty in our Land, that in reception of ſo tranſcendent bleſſings you would remember the poor, and ſignalize this happy year with a proviſion, that there may be no complaining, no begging in our ſtreets, and work<g ref="char:EOLhyphen"/>houſes may be erected in theſe rich and populous ci<g ref="char:EOLhyphen"/>ties, that all that are able to work, may be bleſſed in <hi>eating the labour of their own hands, Pſal.</hi> 128.2 and all that are abſolutely impotent, be otherwiſe ſuffi<g ref="char:EOLhyphen"/>ciently relieved; a work that all mankind muſt ne<g ref="char:EOLhyphen"/>ceſſarily acknowledge excellent.
+<note place="margin">
+                  <hi>Hodie<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> in cap<g ref="char:EOLhyphen"/>tivitate nullos mendicos habe<g ref="char:EOLhyphen"/>mus qui ſtipem poſtulent, ſed onnes aut Sy<g ref="char:EOLhyphen"/>nagogarum pro<g ref="char:EOLhyphen"/>ventibus, aut divitum libera<g ref="char:EOLhyphen"/>litate ſuſten<g ref="char:EOLhyphen"/>tantur, ita ut neceſſaria iis nunquam de<g ref="char:EOLhyphen"/>ſint.</hi> Menaſſes Ben-Iſrael conciliator, p. 223.</note> The Jews can provide for their poor throughout Chriſtendome without begging, may not Chriſtians much better do the like? Some neighbouring people in forreign parts prevent all need for their poor to beg, what hinders this magnificent Kingdom to do the ſame? Other Parliaments (as fame goes) have had this reli<g ref="char:EOLhyphen"/>gious deſign under conſideration, but have left you the glory to complete the work, and put it in execu<g ref="char:EOLhyphen"/>tion. Your Honours have raiſed ſuch extraordinary hopes in theſe three Nations, that they promiſe themſelves from theſe two Houſes the greateſt be<g ref="char:EOLhyphen"/>nefits
+<pb n="28" facs="tcp:168906:17"/>that can be procured by the beſt Parliament, and therefore I had the boldneſs humbly to propoſe this motion to you. And when I ſhall in three words have toucht upon three motives that exalt thankſgi<g ref="char:EOLhyphen"/>ving above all other ſervice, I will diſmiſs this ho<g ref="char:EOLhyphen"/>nourable audience to the feſtivities of this joyful day.</p>
+            <p n="1">1. It is very remarkable that <hi>ever and ever</hi> is ad<g ref="char:EOLhyphen"/>joyned to the cloſe of the Doxology, <hi>Mat.</hi> 6 13. be<g ref="char:EOLhyphen"/>cauſe thankſgiving onely is an eternal and everlaſting office; prayer is a duty of time, thankſgiving is a ſer<g ref="char:EOLhyphen"/>vice of eternity; after the day of Judgment petitions ſhall ceaſe, when once all deſires are accompliſhed, but giving of thanks ſhall be ſempiternal,
+<note place="margin">
+                  <hi>Agobard ad c<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>mores occ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e<g ref="char:EOLhyphen"/>ſiae Lugd<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>enſ. V.</hi> 612.</note> that God hath filled up all our faculties of deſiring, and left us no more ſpace nor room for prayer.</p>
+            <p n="2">2. Thankſgiving is an Angelical office, therefore to ſet an eſtimate upon ſacred hymns and praiſes, <hi>Eſa.</hi> 6.2, 3. You have the Seraphims of the ſupreme order veiling their faces and feet in token of reve<g ref="char:EOLhyphen"/>rence, and flying as they ſing in teſtimony of affecti<g ref="char:EOLhyphen"/>on, and longing to draw near to God; and they be<g ref="char:EOLhyphen"/>ing, as it were, chief chantors and leading the ſong, all the Chorus of Angels accompany them with har<g ref="char:EOLhyphen"/>monious and according voices, and with incredible gladneſs and exaltation of ſpirit.</p>
+            <p n="3">3. Thankſgiving as it is a Saint-like and Angelical performance, ſo it is the proper ſervice of heaven, as it is the place of everlaſting repoſe: Hence <hi>Luke</hi> 2.14. they ſing <hi>glory to God in the higheſt</hi> (heavens) as the
+<pb n="29" facs="tcp:168906:17"/>ſeat of eternal praiſes. Petition oft tends to our own good, thankſgiving looks entirely at Gods glory, which therefore is the grand duty and product of cha<g ref="char:EOLhyphen"/>rity, and the peculiar office of heaven, where having whatſoever they can wiſh, they have no other im<g ref="char:EOLhyphen"/>ployment but to bleſs the fountain of their bleſſed<g ref="char:EOLhyphen"/>neſs: Prayer pertains to viators, and praiſe to com<g ref="char:EOLhyphen"/>prehenſors, as ſatisfied in good, and ſecured of eterni<g ref="char:EOLhyphen"/>ty in bliſs. <hi>Dionyſius Carthuſianus,</hi>
+               <note place="margin">
+                  <hi>Deum laudere eſt actus prae<g ref="char:EOLhyphen"/>clarior quam Deum orare;</hi> 1. <hi>qunniam a<g ref="char:EOLhyphen"/>ctus ille eſt ma<g ref="char:EOLhyphen"/>gis Angelicus;</hi> 2. <hi>quia actus ille eſt ſimplici<g ref="char:EOLhyphen"/>or ac purior, quia per illum m<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>gis purè in Deum conver<g ref="char:EOLhyphen"/>t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>mur, per ora<g ref="char:EOLhyphen"/>tionem vero ad nos ipſos aliquo modo reflecti<g ref="char:EOLhyphen"/>mur.</hi> De S. Catharina ſen. 1.</note> a godly and lear<g ref="char:EOLhyphen"/>ned Writer, ſhall conclude for me, To praiſe God is a more eminent act than to pray unto God, both for that it is a more Angelical act, and becauſe it is a pu<g ref="char:EOLhyphen"/>rer and more ſublimated act, as in which we are pure<g ref="char:EOLhyphen"/>ly inclined and converted to God; whereas in prayer we reflect in ſome ſort upon our ſelves. This then of all other is a moſt celeſtial function, to ſing <hi>Hallelu<g ref="char:EOLhyphen"/>jahs,</hi> to coaſſiſt with the heavenly inhabitants in prai<g ref="char:EOLhyphen"/>ſing God; this is to be in Paradiſe, to taſte the firſt fruits, and in a manner to have the exerciſes and fru<g ref="char:EOLhyphen"/>itions of heaven upon earth.</p>
+            <p>
+               <hi>Therefore with Angels and Archangels, and all the company of heaven, let us thank God through Je<g ref="char:EOLhyphen"/>ſus Chriſt our Lord.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
